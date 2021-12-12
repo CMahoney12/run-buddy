@@ -160,11 +160,11 @@ section {
 
 .section-title {
   font-size: 55px;
-  color: #024e76;
-  margin-bottom: 35px;
-  padding: 0 100px 20px 100px;
   display: inline-block;
+  padding: 0 100px 20px 100px;
   border-bottom: 3px solid;
+  margin-bottom: 35px;
+  color: #024e76;
 }
 
 .primary-border {
@@ -220,4 +220,9 @@ section {
 
 .text-right {
   text-align: right;
+}
+/* REACH OUT STYLES START */
+.contact {
+  text-align: center;
+  background: #024e76;
 }
